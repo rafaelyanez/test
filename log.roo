@@ -1,0 +1,25 @@
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-12-10 20:08:35
+hint
+project --topLevelPackage com.test
+hint
+jpa setup --provider HIBERNATE --database HYPERSONIC_IN_MEMORY 
+hint
+entity jpa --class com.test.domain.Song
+hint
+field string --fieldName name
+hint
+hint topics
+exit
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2012-12-10 21:46:07
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-12-10 21:53:02
+hint
+hint topics
+help
+exit
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2012-12-10 22:00:47
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2012-12-10 22:02:46
+entity jpa --class ~.domain.Song --testAutomatically 
+perform tests
+exit
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2012-12-10 22:07:02
+test

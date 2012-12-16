@@ -1,0 +1,9 @@
+<aspectj>
+<aspects>
+<aspect name="com.test.domain.Song_Roo_Jpa_Entity"/>
+<aspect name="com.test.domain.Song_Roo_ToString"/>
+<aspect name="com.test.domain.Song_Roo_Configurable"/>
+<aspect name="com.test.domain.Song_Roo_Jpa_ActiveRecord"/>
+</aspects>
+</aspectj>
+

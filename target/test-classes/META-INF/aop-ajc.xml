@@ -1,0 +1,9 @@
+<aspectj>
+<aspects>
+<aspect name="com.test.domain.SongDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="com.test.domain.SongIntegrationTest_Roo_IntegrationTest"/>
+<aspect name="com.test.domain.SongIntegrationTest_Roo_Configurable"/>
+<aspect name="com.test.domain.SongDataOnDemand_Roo_Configurable"/>
+</aspects>
+</aspectj>
+
